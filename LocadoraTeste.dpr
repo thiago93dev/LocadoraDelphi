@@ -1,4 +1,4 @@
-program LocadoraTesteHerbert;
+program LocadoraTeste;
 
 {$APPTYPE CONSOLE}
 
@@ -9,7 +9,7 @@ uses
   Clientes in 'Unit(s)\Clientes\Clientes.pas',
   Filmes in 'Unit(s)\Filmes\Filmes.pas',
   Login in 'Unit(s)\Login\Login.pas',
-  LocacaoFilmes in 'Unit(s)\Locação\LocacaoFilmes.pas',
+  LocacaoFilmes in 'Unit(s)\LocaÃ§Ã£o\LocacaoFilmes.pas',
   Menus in 'Unit(s)\Menus\Menus.pas',
   Procedimentos in 'Unit(s)\Procedimentos\Procedimentos.pas',
   TypeRecord in 'Unit(s)\TypesRecord\TypeRecord.pas';
